@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+tqdm
+torch
+scikit-learn
+yfinance
+lxml
